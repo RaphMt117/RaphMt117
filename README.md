@@ -1,15 +1,13 @@
 ## Olá! Eu sou o Rafael Marques!
  - Graduando em Análise e Desenvolvimento de Sistemas e Técnico em Automação Industrial.
 
-<div>
-  <a href="https://github.com/RaphMt117">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphMt117&show_icons=true&theme=radical&include_all_commits=false&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphMt117&layout=compact&langs_count=10&theme=radical"/>                                                                          
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=RaphMt117&show_icons=true&bg_color=00000000" alt="RaphMt117" width="450" height="350"/></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphMt117&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="RaphMt117" width="400" height="350"/></p>
 
 ##
     
-### Tecnologias e ferramentas
+### Tecnologias e ferramentas:
 
 <div style= "display: inline_block"><br/>
 <img align="center" alt="Git" rel="stylesheet" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
