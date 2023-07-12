@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Rafael Marques!
  - Graduando em Análise e Desenvolvimento de Sistemas e Técnico em Automação Industrial.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=RaphMt117&show_icons=true&bg_color=00000000" alt="RaphMt117" width="450" height="350"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=RaphMt117&show_icons=true&bg_color=00000000" alt="RaphMt117" width="450" height="350"/></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphMt117&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="RaphMt117" width="400" height="350"/></p>
 
