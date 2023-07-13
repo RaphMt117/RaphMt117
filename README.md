@@ -1,12 +1,21 @@
-## Olá! Eu sou o Rafael Marques!
- - Graduando em Análise e Desenvolvimento de Sistemas e Técnico em Automação Industrial.
+<div align="center"> 
+
+<div align="center">  
+    <h1>Olá! Eu sou o <a href="https://www.linkedin.com/in/rafael-marques-e-torres/"><i>Rafael Marques!</i></a></h1>
+</div>
+
+### Graduando em Análise e Desenvolvimento de Sistemas e Técnico em Automação Industrial.
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=RaphMt117&show_icons=true&bg_color=00000000" alt="RaphMt117"/></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphMt117&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="RaphMt117"/></p>
 
+</div>
+
 ##
-    
+
+<div align="center"> 
+ 
 ### Tecnologias e ferramentas:
 
 <div style= "display: inline_block"><br/>
@@ -22,13 +31,18 @@
 <img align="center" alt="Vim" rel="stylesheet" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40">
 
 </div>
+</div>
 
 ##
 
+
+<div align="center"> 
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-marques-e-torres/) 
 
 ![Snake animation](https://github.com/RaphMt117/RaphMt117/blob/output/github-contribution-grid-snake.svg)
 
+</div>
 
 <!--
 **RaphMt117/RaphMt117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
