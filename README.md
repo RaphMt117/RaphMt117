@@ -27,6 +27,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-marques-e-torres/) 
 
+<!--   ![snake gif](https://github.com/RaphMt117/RaphMt117/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **RaphMt117/RaphMt117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
