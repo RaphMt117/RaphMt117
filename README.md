@@ -27,7 +27,7 @@
 <img align="center" alt="CSS 3" rel="stylesheet" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
 <img align="center" alt="TailwindCSS" rel="stylesheet" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40">
 <img align="center" alt="MySQL" rel="stylesheet" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
-<img align="center" alt="React" rel="stylesheet" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
+<!-- <img align="center" alt="React" rel="stylesheet" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"> -->
 <img align="center" alt="Vim" rel="stylesheet" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40">
 
 </div>
