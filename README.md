@@ -33,7 +33,7 @@
 <!-- <img align="center" alt="GoLang" rel="stylesheet" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="40" height="40"> -->
 <!-- <img align="center" alt="React" rel="stylesheet" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"> -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,astro,nodejs,git,tailwindcss,vim,linux,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,astro,nodejs,git,tailwindcss,neovim,vite,linux,java&theme=dark)](https://skillicons.dev)
 
 </div>
 
