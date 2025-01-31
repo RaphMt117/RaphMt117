@@ -1,10 +1,6 @@
 <div align="center"> 
-    
-</div>
-
-<div align="center"> 
  
-### Tech that I use:
+## Tech that I use:
 
 Backend:
 
@@ -18,17 +14,13 @@ Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=vim,linux,terraform,gitlab,git,bash&theme=dark)](https://skillicons.dev)
 
-</div>
+## Find me on:
+
+<div display="flex"> 
+
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rafael-torres.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-marques-e-torres/)
 
 </div>
 
-<div align="center"> 
-
-### Find me on:
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-marques-e-torres/) 
-
 </div>
-
-
-
